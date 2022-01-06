@@ -44,7 +44,7 @@ django-redis==4.8.0
 redis==2.10.6
 
 
-celery==3.1.25
+celery==5.2.2
 
 
 # rcssmin==1.0.6 --install-option="--without-c-extensions" (on windows)
